@@ -1,1 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Quero Estudar, E Agora?</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta name="description" content="Site com informações reunidas a respeito de cursos (incluindo bolsas de estudo e oportunidades gratuitas) técnicos, profissionalizantes e estudo continuado para jovens e adultos.">
+        <meta name="keywords" content=""/>
+        <!-- <link rel="icon" href= "favicon.ico" type="image/x-icon"/> -->
+        <script type="text/javascript" src="index.js"></script>
+		<link rel="stylesheet" href="reset.css"/>
+		<link rel="stylesheet" href="hello.css"/>
+		<link rel="stylesheet" href="shared.css"/>
+        <link rel="stylesheet" href="index.css"/>
+        <meta name="viewport" content="width=device-width">
+	</head>
 
+    <body class="index">
+        <header id="header">
+            <h1 id="logo">
+                <a href="index.html">Quero Estudar, E Agora?</a>
+            </h1>
+            <nav id="nav">
+                <ul>
+                    <li>
+                        <a href="sobre.html">Sobre</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <section id="banner">
+            <div class="inner">
+                <h2>Quero Estudar, E Agora?</h2>
+                <p>Olhando Pro Futuro</p>
+            </div>
+        </section>
+        <!--CONTENT-->
+        <div class="page-content">
+            <article id="main">
+                <!-- section: work-->
+                <section class="wrapper style3 container special" id="work">
+                    <header class="special">
+                        <h2>
+                            <strong>Por onde começar?</strong>
+                        </h2>
+                    </header>
+                    <h3>Se você não teve oportunidade de terminar os estudos, isso não é problema! Você tem algumas opções para concluir essa etapa:</h3>
+                    <div class="row">
+                        <div class="item">
+                            <section>
+                                <!-- <div class="image featured">
+                                    <img src="/images/image.jpg" alt=""/>
+                                </div> -->
+                                <h1>Encceja</h1>
+                                <p>
+                                    A prova do <b>Encceja</b> (Exame Nacional para Certificação de Competências de Jovens e Adultos) acontece todos os anos e é uma forma segura de conseguir o certificado de conclusão do ensino fundamental ou médio. O exame é organizado e realizado pelo Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira), órgão ligado ao MEC – Ministério da Educação. Para participar do <b>Encceja</b> do ensino fundamental é necessário ter 15 anos completos até o dia de aplicação da prova. Já para o ensino médio o estudante deve ter ao menos 18 anos.
+                                </p>
+                                <p>
+                                    Ao se inscrever, o candidato opta pelo certificado que deseja obter e concorre para aquele nível de ensino. No dia do exame o candidato tem acesso a quatro provas com 30 questões de múltipla escolha cada uma, além de uma redação dissertativo-argumentativa. Para ser aprovado (a), é necessário conseguir o mínimo de 100 pontos em cada prova e 5 pontos na redação. O exame avalia os conhecimentos dos estudantes nas seguintes áreas:
+                                </p>
+                                <p>
+                                    <h3>Encceja ensino fundamental:</h3>
+                                    <br>
+                                    • Língua Portuguesa, Língua Estrangeira Moderna, Artes, Educação Física e Redação
+                                    <br>
+                                    • Matemática
+                                    <br>
+                                    • História e Geografia
+                                    <br>
+                                    • Ciências Naturais
+                                </p>
+                                <p>
+                                    <h3>Encceja ensino médio:</h3>
+                                    <br>
+                                    • Linguagens, Códigos e suas Tecnologias e Redação
+                                    <br>
+                                    • Matemática e suas Tecnologias
+                                    <br>
+                                    • Ciências Humanas e suas Tecnologias
+                                    <br>
+                                    • Ciências da Natureza e suas Tecnologias
+                                </p>
+                            </section>
+                        </div>
+                        <div class="item">
+                            <section>
+                                <h1>EJA</h1>
+                                <h2>Supletivo para terminar os estudos</h2>
+                                <p>
+                                    A Educação Para Jovens e Adultos é um programa que visa incentivar a conclusão do ensino básico no país. Os cursos <b>EJA</b> substituíram os antigos supletivos e são destinados a quem tem interesse em terminar seus estudos. Através da <b>EJA</b> é possível conseguir o certificado do ensino fundamental, para estudantes com idade mínima de 15 anos, e médio, para maiores de 18 anos. Os conhecimentos dos alunos são avaliados por uma prova realizada pelas secretarias de educação dos municípios e estados. Cada local possui regras próprias, por isso é necessário buscar informações junto a esses órgãos. A inscrição é gratuita.
+                                </p>
+                                <p>
+                                    Os cursos <b>EJA</b> para ensino fundamental têm duração média de dois anos e de 18 meses para o ensino médio. Para saber mais sobre o <b>EJA</b> e as matérias estudadas na modalidade confira tudo sobre a Educação para Jovens e Adultos clicando aqui.
+                                </p>
+                            </section>
+                        </div>
+                        <div class="item">
+                            <section>
+                                <h1>Mas eu faço EJA ou Encceja?</h1>
+                                <p>
+                                    Após entender como funciona cada uma das modalidades, chegou a hora de decidir qual a melhor alternativa para você. O <b>Encceja</b> pode ser realizado por quem frequenta ou não um curso <b>EJA</b>. A prova, apesar de ser menos complicada que o Enem, é considerada um exame em que a preparação é fundamental para alcançar a nota desejada. Por isso, é importante caprichar nos estudos e, até mesmo, investir em um curso preparatório do <b>Encceja</b>. Além de ser confiável, apenas com uma prova você consegue a certificação desejada.  Já os cursos <b>EJA</b> são encontrados para serem cursados presencial ou como <b>EJA</b> EaD. 
+                                </p>
+                                <p>
+                                    <b>EJA</b> – ideal para quem deseja ter o convívio com os colegas e professores em ambiente escolar. Os cursos são realizados em instituições de educação e duram, em média, dois anos para o ensino fundamental, e 18 meses no ensino médio. Esse modelo de educação é encontrado em diferentes escolas, com aulas de segunda a sexta-feira. <b>EJA</b> online funciona como uma preparação para os exames supletivo das secretarias de educação e uma alternativa para estudantes que desejam estudar com maior flexibilidade. 
+                                </p>
+                                <p>
+                                    <b>Encceja</b> – prova realizada apenas uma vez por ano, o que exige maior preparação. É uma forma segura e prática de conquistar a certificação desejada. O exame é gratuito e ideal para quem deseja o certificado de forma rápida. Os cursos EJA também são preparatórios para o <b>Encceja</b>.
+                                </p>
+                                <p>
+                                    <b>EJA</b> e <b>Encceja</b> são modalidades que possibilitam a conclusão do ensino básico. Independente da escolha, é importante não desistir e dar continuidade aos estudos através dos cursos técnicos e da graduação. Se você tem repetido constantemente ‘quero terminar meus estudos, mas não sei por onde começar’, agora você tem as informações necessárias para dar o ponta pé inicial em sua qualificação.
+                                </p>
+                            </section>
+                        </div>
+                    </div>
+                    <h3>Se você está na escola, pode partir para um novo objetivo: explorar as alternativas para o seu futuro!</h3>
+                    <div class="row">
+                        <div class="item">
+                            <section>
+                                <h1>Quer entrar logo na faculdade?</h1>
+                                <h2>Se prepare para o vestibular!</h2>
+                                <p>
+                                    No geral, sua escola te prepara para prestar todos os vestibulares e ter acesso ao ensino superior. O universo do vestibular é cheio de opções e nossa cidade é conhecida como o centro universitário da região serrana, você sabia? São várias as opções!
+                                </p>
+                            </section>
+                        </div>
+                        <div class="item">
+                            <section>
+                                <h1>Quer entrar logo no mercado de trabalho?</h1>
+                                <h2>Que tal um curso técnico?</h2>
+                                <p>
+                                    Uma ótima dica para quem quer entrar logo no mercado de trabalho é fazer cursos técnicos. Eles duram em média dois anos e, além de ajudarem a preparar mais para uma profissão específica, são voltados para o lado mais prático da atuação. O melhor de tudo isso é que ao concluir o curso você poderá incluí-lo no seu currículo, o que será ótimo para começar a procurar vagas de emprego.
+                                </p>
+                            </section>
+                        </div>
+                        <div class="item">
+                            <section>
+                                <h1>E prestar um concurso?</h1>
+                                <h2>Que tal?</h2>
+                                <p>
+                                    Se sua vontade é entrar logo no mercado de trabalho, outra boa opção é estudar para concursos públicos. Existem vários que exigem apenas o nível de ensino médio aos candidatos. Caso você escolha essa opção, não deixe de se dedicar, pois a concorrência é grande!
+                                </p>
+                            </section>
+                        </div>
+                    </div>
+                    <h3>Ainda não tem certeza do que fazer? Isso não é problema também!</h3>
+                    <div class="row">
+                        <div class="item">
+                            <section>
+                                <h1>Se dedique a uma língua estrangeira, o que acha?</h1>
+                                <p>
+                                    Você pode estudar para aperfeiçoar seus conhecimentos em uma língua estrangeira. Esse tipo de habilidade será um diferencial muito importante quando você for ao mercado de trabalho, aproveite o tempo livre para investir nesse conhecimento.
+                                </p>
+                            </section>
+                        </div>
+                        <div class="item">
+                            <section>
+                                <h1>Faça cursos livres!</h1>
+                                <p>
+                                    Outra coisa que você pode fazer ao sair do colégio é se aprimorar através de cursos. Se já tiver interesse em alguma área específica, será mais fácil escolher qual curso você pode fazer.
+                                </p>
+                            </section>
+                        </div>
+                    </div>
+                    <h3>Ainda estou na escola, mas quero começar a me preparar para o futuro, o que posso fazer?</h3>  
+                </section>
+            </article>
+        </div>
+        <!-- Footer -->
+        <footer id="footer">
+            <!-- <ul class="icons">
+                <li><a href="https://twitter.com/" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="https://github.com/" class="icon circle fa-github"><span class="label">Github</span></a></li>
+                <li><a href="https://linkedin.com/" class="icon circle fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+            </ul> -->
+            <ul class="copyright">
+                <li>Projeto desenvolvido por alunos da FMP / FASE</li>
+                <li>adapted from <a href="https://saragong.github.io/hello/"><strong>hello</strong></a> for github pages</li>
+            </ul>
+        </footer>
+    </body>
+</html>
