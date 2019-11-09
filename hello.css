@@ -248,6 +248,10 @@ footer.major {
 	text-align: center;
 }
 
+.item section {
+	border-bottom: 2px solid gray;
+}
+
 
 /* Image */
 
